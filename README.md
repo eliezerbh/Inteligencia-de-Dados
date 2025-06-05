@@ -15,9 +15,7 @@ Um podcast semanal apresentado por Gustavo Vitore Santos, voltado para quem ama 
 - Casos reais de IA no esporte, agro e segurança
 
 ## 🔗 Onde ouvir
-[Link para o Spotify](#)  
-[Link para o Deezer](#)  
-[Link para o YouTube](#)
+[https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v](#)
 
 ---
 
