@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial do podcast **Inteligência de Dados – Explor
 Um podcast semanal apresentado por Gustavo Vitore Santos, voltado para quem ama dados, dashboards, IA e tudo que envolve transformar informação em decisão.
 
 ## 🎧 Episódios disponíveis
-- [Episódio 01 – A evolução da IA e a importância da análise de dados](./episodios/episodio-01/Roteiro_Podcast_Inteligencia_de_Dados_Formatado.pdf)
+- [Episódio 01 – A evolução da IA e a importância da análise de dados]( https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v)
 
 ## 🧠 Temas abordados
 - Inteligência Artificial no dia a dia
