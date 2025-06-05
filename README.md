@@ -32,4 +32,4 @@ Você vai entender como a IA se conecta com a análise de dados de forma produti
 
 ---
 
-**Autor do projeto nessa jornada:** Eliézer Santos
+**Autor do projeto: Eliézer Santos**
