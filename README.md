@@ -27,6 +27,7 @@ Você vai entender como a IA se conecta com a análise de dados de forma produti
 
 ## 🔗 Onde ouvir
 [https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v](#)
+[https://creators.spotify.com/pod/show/eliezer-santos95](#)
 
 ---
 
