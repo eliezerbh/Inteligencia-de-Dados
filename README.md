@@ -26,9 +26,10 @@ Você vai entender como a IA se conecta com a análise de dados de forma produti
 - [Clique aqui para baixar o arquivo com os prompts do podcast](https://github.com/eliezerbh/Inteligencia-de-Dados/blob/main/Prompts%20Podcast%20As.docx)
 
 ## 🔗 Onde ouvir
-- 🎧 ▶️ Ouça no Spotify [https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v](#)
+- 🎧 ▶️ ## Ouça o episódio no Spotify [Clique aqui para ouvir no Spotify](https://open.spotify.com/episode/https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v)
 
-- 🎧 ▶️ Ouça também no Spotfy Creators [https://creators.spotify.com/pod/show/eliezer-santos95](#)
+
+- 🎧 ▶️ ## Ouça o episódio no Spotify Creators [Clique aqui para ouvir no Spotify](https://open.spotify.com/episode/https://creators.spotify.com/pod/show/eliezer-santos95)
 
 ---
 
