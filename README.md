@@ -22,6 +22,9 @@ Você vai entender como a IA se conecta com a análise de dados de forma produti
 - Imagem da capa gerada no MidJourney
 - Edições de áudio feitas no Capcut
 
+## 📚 Materiais de apoio
+- [Clique aqui para baixar o arquivo com os prompts do podcast](https://github.com/eliezerbh/Inteligencia-de-Dados/blob/main/Prompts%20Podcast%20As.docx)
+
 ## 🔗 Onde ouvir
 [https://open.spotify.com/show/6QO3mw7EkfhJ9D2oeH9V2v](#)
 
