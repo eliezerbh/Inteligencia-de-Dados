@@ -17,9 +17,9 @@ Você vai entender como a IA se conecta com a análise de dados de forma produti
 - Casos reais de IA e análise de dados no esporte, agro e segurança
 
 ## ✨ Como foi feito?
-- O Roteiro foi gerado vai Chatgpt
-- Áudio gerado pela ElevenLabs
-- Imagem da capa gerada pela MidJourney
+- O Roteiro foi gerado no Chatgpt
+- Áudio gerado na ElevenLabs
+- Imagem da capa gerada no MidJourney
 - Edições de áudio feitas no Capcut
 
 ## 🔗 Onde ouvir
